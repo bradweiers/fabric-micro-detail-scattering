@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using System.Collections;
 
-public class FabricPatternTexture : MonoBehaviour {
+public class FabricPatternTexture : MonoBehaviour
+{
 	public string textureName;
     public int    textureResolution;
     
