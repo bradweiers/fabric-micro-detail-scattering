@@ -3,7 +3,11 @@ Requires Unity 5.4+
 
 This repository will be moved to the Unity-Technologies GitHub organization soon
 
-## Feature Overview & Notes
+![Fabric Shader](game-view.PNG?raw=true "Fabric Shader")
+
+## Material Settings
+
+![Material UI](UI.PNG?raw=true "Material UI")
 
 ### Micro details
 - Encompass a variety of features on the micro level:
