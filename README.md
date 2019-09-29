@@ -1,8 +1,6 @@
 # Micro Detail Fabric Shader
 Requires Unity 5.4+
 
-This repository will be moved to the Unity-Technologies GitHub organization soon
-
 ![Fabric Shader](game-view.PNG?raw=true "Fabric Shader")
 
 ## Material Settings
@@ -27,7 +25,3 @@ Differently calculated from micro subsurface, this term is meant to have more of
 
 ### Future Work
 There is a lot of work done with the AO to enhance rim lighting. We employ a technique used by Naughty Dog in which there is an "AO Fresnel"--that is the AO falls off in intensity at grazing angles. We also drop the micro detail strength at grazing angles.
-
----
-
-Authored by John Parsaie under supervision of Andrew Maneri and Brad Weiers at Unity Technologies
